@@ -22,6 +22,7 @@ nlu:
     - ok
     - correcte
     - oui merci
+    - bah ouai
 - intent: deny
   examples: |
     - jamais
